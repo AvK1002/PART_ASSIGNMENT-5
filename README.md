@@ -14,10 +14,10 @@ npx playwright test registration.spec.js
 
 **Expected Result:** All six registration fields are populated and verified successfully.
 
-```
 
 ### Output Screenshot:
 ![alt text](image.png)
+
 
 ---
 
@@ -85,11 +85,11 @@ Used `test.describe()` to group test cases and `test.beforeEach()` to navigate t
 npx playwright test loginTags.spec.js --grep "@smoke"
 
 ```
+
 ### Output Screenshot:
 
 ![alt text](image-1.png)
 
-```
 
 **Regression Testing:**
 
@@ -100,7 +100,6 @@ npx playwright test loginTags.spec.js --grep "@regression"
 ### Output Screenshot:
 ![alt text](image-2.png)
 
-```
 
 **Sanity Testing:**
 
@@ -111,7 +110,6 @@ npx playwright test loginTags.spec.js --grep "@sanity"
 ### Output Screenshot:
 ![alt text](image-3.png)
 
-```
 
 **Run All Tests:**
 
