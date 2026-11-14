@@ -141,7 +141,7 @@ node excelDemo.js
 
 **Expected Result:** All populated Excel cell values are displayed in the terminal.
 
-###Output Screenshot:
+### Output Screenshot:
 ![alt text](image-4.png)
 
 ---
