@@ -140,10 +140,10 @@ node excelDemo.js
 ```
 
 **Expected Result:** All populated Excel cell values are displayed in the terminal.
-```
 
 ###Output Screenshot:
 ![alt text](image-4.png)
+
 ---
 
 ## Task 5: Assertions (Hard & Soft) and Debugging Methods
@@ -181,8 +181,7 @@ Runs tests with the browser UI visible.
 ---
 
 ## Project Structure
-
-```text
+```
 Part_Assignment5/
 │
 ├── testdata.json
